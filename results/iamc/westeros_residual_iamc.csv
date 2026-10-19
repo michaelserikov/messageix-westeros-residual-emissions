@@ -1,0 +1,313 @@
+Model,Scenario,Region,Variable,Unit,700,710,720
+Westeros Electrified,g06_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g06_b10,Westeros,Emissions|CO2,Mt CO2/yr,419.7227051780948,471.8874198206943,0.0
+Westeros Electrified,g06_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,419.7227051780948,471.8874198206943,90.0
+Westeros Electrified,g06_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,82.85074002126537,93.28828726966852,90.0
+Westeros Electrified,g06_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,336.87196515682945,378.5991325510258,0.0
+Westeros Electrified,g06_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,187.2599807896337
+Westeros Electrified,g06_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.9786563303788707,3.020495099035269,3.9622320000000006
+Westeros Electrified,g06_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g06_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.4366041523828597,1.6145513493773314,0.0
+Westeros Electrified,g06_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.542052177996011,1.405943749657938,3.6466560000000006
+Westeros Electrified,g06_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g06_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8715235044316948,0.9813181514470972,0.9467280000000001
+Westeros Electrified,g06_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.07520449556830536,0.21787064855290297,0.47336400000000006
+Westeros Electrified,g08_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g08_b10,Westeros,Emissions|CO2,Mt CO2/yr,417.54095198674753,469.37791796356817,0.0
+Westeros Electrified,g08_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,417.54095198674753,469.37791796356817,90.0
+Westeros Electrified,g08_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,86.23621911128703,97.18234187555409,90.0
+Westeros Electrified,g08_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,331.3047328754605,372.1955760880141,0.0
+Westeros Electrified,g08_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,172.06014673570635
+Westeros Electrified,g08_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.9549146426163668,2.993186872895115,3.9622319999999993
+Westeros Electrified,g08_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g08_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.412862464620356,1.5872431232371775,0.0
+Westeros Electrified,g08_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5420521779960109,1.4059437496579374,3.6466559999999992
+Westeros Electrified,g08_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g08_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9071360360754507,1.0222804906573286,0.9467280000000001
+Westeros Electrified,g08_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.039591963924549445,0.17690830934267154,0.47336400000000006
+Westeros Electrified,g08_b8,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,72.0
+Westeros Electrified,g08_b8,Westeros,Emissions|CO2,Mt CO2/yr,413.42993410836254,457.6328403746792,0.0
+Westeros Electrified,g08_b8,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,413.42993410836254,457.6328403746792,72.0
+Westeros Electrified,g08_b8,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,82.37435137801401,88.84485909002976,72.0
+Westeros Electrified,g08_b8,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,331.05558273034853,368.7879812846494,0.0
+Westeros Electrified,g08_b8,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,176.62873876941185
+Westeros Electrified,g08_b8,Westeros,Secondary Energy|Electricity,EJ/yr,1.9819971486562635,3.0516559721734398,4.0884624
+Westeros Electrified,g08_b8,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.25246080000000004
+Westeros Electrified,g08_b8,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.4117999537258443,1.5727112970524937,0.0
+Westeros Electrified,g08_b8,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5701971949304194,1.4789446751209463,3.836001600000001
+Westeros Electrified,g08_b8,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000003,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g08_b8,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8665122770156053,0.9345768417398412,0.7573824000000001
+Westeros Electrified,g08_b8,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.080215722984395,0.264611958260159,0.6627096000000001
+Westeros Electrified,g10_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g10_b10,Westeros,Emissions|CO2,Mt CO2/yr,416.1341582106371,467.3447277292869,0.0
+Westeros Electrified,g10_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,416.1341582106371,467.3447277292869,90.0
+Westeros Electrified,g10_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,88.4191749707687,100.3372922390939,90.0
+Westeros Electrified,g10_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,327.71498323986845,367.007435490193,0.0
+Westeros Electrified,g10_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,160.88007394107748
+Westeros Electrified,g10_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.9396060097649939,2.971061836985683,3.9622320000000006
+Westeros Electrified,g10_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g10_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3975538317689828,1.5651180873277455,0.0
+Westeros Electrified,g10_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.542052177996011,1.405943749657938,3.6466560000000006
+Westeros Electrified,g10_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.946728,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g10_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.93009898535251,1.0554680445214768,0.9467280000000001
+Westeros Electrified,g10_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.016629014647490083,0.14372075547852353,0.47336400000000006
+Westeros Electrified,g10_b6,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,54.0
+Westeros Electrified,g10_b6,Westeros,Emissions|CO2,Mt CO2/yr,406.3831362122533,442.0530879427097,0.0
+Westeros Electrified,g10_b6,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,406.3831362122533,442.0530879427097,54.0
+Westeros Electrified,g10_b6,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,83.06800436189951,86.45773381963076,54.0
+Westeros Electrified,g10_b6,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,323.3151318503538,355.5953541230789,0.0
+Westeros Electrified,g10_b6,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,165.52008489486437
+Westeros Electrified,g10_b6,Westeros,Secondary Energy|Electricity,EJ/yr,1.9771326990108715,3.068396404269694,4.2146928
+Westeros Electrified,g10_b6,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.18934560000000003
+Westeros Electrified,g10_b6,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3787904871460441,1.5164508036857398,0.0
+Westeros Electrified,g10_b6,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5983422118648275,1.5519456005839545,4.025347200000001
+Westeros Electrified,g10_b6,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g10_b6,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8738089514836935,0.90946619359546,0.5680368000000001
+Westeros Electrified,g10_b6,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.07291904851630661,0.2897226064045402,0.8520552000000001
+Westeros Electrified,g10_b8,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,72.0
+Westeros Electrified,g10_b8,Westeros,Emissions|CO2,Mt CO2/yr,411.2586472114451,454.6989078359982,0.0
+Westeros Electrified,g10_b8,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,411.2586472114451,454.6989078359982,72.0
+Westeros Electrified,g10_b8,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,85.74358966633409,93.39751302936232,72.0
+Westeros Electrified,g10_b8,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,325.51505754511106,361.3013948066359,0.0
+Westeros Electrified,g10_b8,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,165.52008489486437
+Westeros Electrified,g10_b8,Westeros,Secondary Energy|Electricity,EJ/yr,1.9583693543879324,3.019729120627688,4.0884624
+Westeros Electrified,g10_b8,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.25246080000000004
+Westeros Electrified,g10_b8,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3881721594575132,1.5407844455067423,0.0
+Westeros Electrified,g10_b8,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5701971949304192,1.478944675120946,3.836001600000001
+Westeros Electrified,g10_b8,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888,1.4200920000000001
+Westeros Electrified,g10_b8,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9019539684181017,0.9824671190584682,0.7573824000000001
+Westeros Electrified,g10_b8,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.04477403158189834,0.21672168094153182,0.6627096000000001
+Westeros Electrified,g12_b0,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,0.0
+Westeros Electrified,g12_b0,Westeros,Emissions|CO2,Mt CO2/yr,388.24734257549693,398.77618004241856,0.0
+Westeros Electrified,g12_b0,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,388.24734257549693,398.77618004241856,0.0
+Westeros Electrified,g12_b0,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,80.48665288870365,73.92374687730256,0.0
+Westeros Electrified,g12_b0,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,307.7606896867933,324.852433165116,0.0
+Westeros Electrified,g12_b0,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,160.6280309117324
+Westeros Electrified,g12_b0,Westeros,Secondary Energy|Electricity,EJ/yr,1.9952352006220995,3.1562947478988534,4.593384000000001
+Westeros Electrified,g12_b0,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.0
+Westeros Electrified,g12_b0,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3124579379540473,1.3853463709258738,0.0
+Westeros Electrified,g12_b0,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6827772626680524,1.7709483769729795,4.593384000000001
+Westeros Electrified,g12_b0,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g12_b0,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8466551990668515,0.7776186781517214,0.0
+Westeros Electrified,g12_b0,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.10007280093314869,0.42157012184827886,1.4200920000000001
+Westeros Electrified,g12_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g12_b10,Westeros,Emissions|CO2,Mt CO2/yr,415.2335556221769,465.69234257351417,0.0
+Westeros Electrified,g12_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,415.2335556221769,465.69234257351417,90.0
+Westeros Electrified,g12_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,89.81666174596559,102.90133817046518,90.0
+Westeros Electrified,g12_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,325.4168938762113,362.791004403049,0.0
+Westeros Electrified,g12_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,152.5416312367201
+Westeros Electrified,g12_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.9298057145078928,2.9530806956781626,3.9622320000000006
+Westeros Electrified,g12_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g12_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3877535365118818,1.5471369460202242,0.0
+Westeros Electrified,g12_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.542052177996011,1.405943749657938,3.6466560000000006
+Westeros Electrified,g12_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888,1.4200920000000001
+Westeros Electrified,g12_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9447994282381613,1.0824397564827575,0.9467280000000001
+Westeros Electrified,g12_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.001928571761838806,0.11674904351724247,0.47336400000000006
+Westeros Electrified,g12_b2,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,18.0
+Westeros Electrified,g12_b2,Westeros,Emissions|CO2,Mt CO2/yr,393.6445851848329,412.1594125486377,0.0
+Westeros Electrified,g12_b2,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,393.6445851848329,412.1594125486377,18.0
+Westeros Electrified,g12_b2,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,82.35265466015602,79.71926513593509,18.0
+Westeros Electrified,g12_b2,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,311.2919305246769,332.44014741270263,0.0
+Westeros Electrified,g12_b2,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,157.29469757839905
+Westeros Electrified,g12_b2,Westeros,Secondary Energy|Electricity,EJ/yr,1.9821493033992583,3.115651937454715,4.467153600000001
+Westeros Electrified,g12_b2,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.06311520000000001
+Westeros Electrified,g12_b2,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3275170576656141,1.417704485944744,0.0
+Westeros Electrified,g12_b2,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6546322457336441,1.697947451509971,4.404038400000001
+Westeros Electrified,g12_b2,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000002,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g12_b2,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8662840449011135,0.8385828938179285,0.18934560000000003
+Westeros Electrified,g12_b2,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.08044395509888673,0.3606059061820717,1.2307464000000001
+Westeros Electrified,g12_b4,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,36.0
+Westeros Electrified,g12_b4,Westeros,Emissions|CO2,Mt CO2/yr,399.04182779416897,425.54264505485685,0.0
+Westeros Electrified,g12_b4,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,399.04182779416897,425.54264505485685,36.0
+Westeros Electrified,g12_b4,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,84.21865643160842,85.51478339456762,36.0
+Westeros Electrified,g12_b4,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,314.8231713625605,340.0278616602892,0.0
+Westeros Electrified,g12_b4,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,157.29469757839905
+Westeros Electrified,g12_b4,Westeros,Secondary Energy|Electricity,EJ/yr,1.969063406176417,3.075009127010577,4.3409232000000015
+Westeros Electrified,g12_b4,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.12623040000000002
+Westeros Electrified,g12_b4,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3425761773771812,1.4500626009636142,0.0
+Westeros Electrified,g12_b4,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6264872287992358,1.6249465260469629,4.214692800000001
+Westeros Electrified,g12_b4,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g12_b4,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8859128907353754,0.8995471094841359,0.37869120000000006
+Westeros Electrified,g12_b4,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.06081510926462475,0.29964169051586437,1.0414008000000001
+Westeros Electrified,g12_b6,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,54.0
+Westeros Electrified,g12_b6,Westeros,Emissions|CO2,Mt CO2/yr,404.4390704035049,438.92587756107605,0.0
+Westeros Electrified,g12_b6,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,404.4390704035049,438.92587756107605,54.0
+Westeros Electrified,g12_b6,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,86.08465820306081,91.31030165320016,54.0
+Westeros Electrified,g12_b6,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,318.3544122004441,347.6155759078759,0.0
+Westeros Electrified,g12_b6,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,157.29469757839905
+Westeros Electrified,g12_b6,Westeros,Secondary Energy|Electricity,EJ/yr,1.9559775089535756,3.034366316566439,4.2146928
+Westeros Electrified,g12_b6,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.18934560000000003
+Westeros Electrified,g12_b6,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.357635297088748,1.4824207159824845,0.0
+Westeros Electrified,g12_b6,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5983422118648275,1.5519456005839545,4.025347200000001
+Westeros Electrified,g12_b6,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g12_b6,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9055417365696374,0.9605113251503432,0.5680368000000001
+Westeros Electrified,g12_b6,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.041186263430362746,0.238677474849657,0.8520552000000001
+Westeros Electrified,g12_b8,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,72.0
+Westeros Electrified,g12_b8,Westeros,Emissions|CO2,Mt CO2/yr,409.8363130128409,452.309110067295,0.0
+Westeros Electrified,g12_b8,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,409.8363130128409,452.309110067295,72.0
+Westeros Electrified,g12_b8,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,87.9506599745132,97.10581991183268,72.0
+Westeros Electrified,g12_b8,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,321.8856530383277,355.20329015546235,0.0
+Westeros Electrified,g12_b8,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,157.29469757839905
+Westeros Electrified,g12_b8,Westeros,Secondary Energy|Electricity,EJ/yr,1.9428916117307344,2.9937235061223,4.0884624
+Westeros Electrified,g12_b8,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.25246080000000004
+Westeros Electrified,g12_b8,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.372694416800315,1.514778831001354,0.0
+Westeros Electrified,g12_b8,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5701971949304194,1.4789446751209463,3.836001600000001
+Westeros Electrified,g12_b8,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g12_b8,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9251705824038994,1.0214755408165503,0.7573824000000001
+Westeros Electrified,g12_b8,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.02155741759610079,0.17771325918344977,0.6627096000000001
+Westeros Electrified,g14_b0,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,0.0
+Westeros Electrified,g14_b0,Westeros,Emissions|CO2,Mt CO2/yr,385.88584494957666,394.4000747415909,0.0
+Westeros Electrified,g14_b0,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,385.88584494957666,394.4000747415909,0.0
+Westeros Electrified,g14_b0,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,84.15104575651092,80.71425510272486,0.0
+Westeros Electrified,g14_b0,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,301.7347991930657,313.68581963886606,0.0
+Westeros Electrified,g14_b0,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,154.45544226722257
+Westeros Electrified,g14_b0,Westeros,Secondary Energy|Electricity,EJ/yr,1.9695375463187406,3.108674271815612,4.593384
+Westeros Electrified,g14_b0,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.0
+Westeros Electrified,g14_b0,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.2867602836506882,1.3377258948426325,0.0
+Westeros Electrified,g14_b0,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6827772626680524,1.7709483769729795,4.593384
+Westeros Electrified,g14_b0,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b0,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8852016805218899,0.8490493922765836,0.0
+Westeros Electrified,g14_b0,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.06152631947811034,0.3501394077234166,1.4200920000000001
+Westeros Electrified,g14_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g14_b10,Westeros,Emissions|CO2,Mt CO2/yr,415.1154043029103,464.3455440428509,0.0
+Westeros Electrified,g14_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,415.1154043029103,464.3455440428509,90.0
+Westeros Electrified,g14_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,90.0,104.99119795942572,90.0
+Westeros Electrified,g14_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,325.1154043029103,359.3543460834252,0.0
+Westeros Electrified,g14_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,139.6388955373496
+Westeros Electrified,g14_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.928520000000001,2.93842492695014,3.962232
+Westeros Electrified,g14_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g14_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3864678220039899,1.5324811772922027,0.0
+Westeros Electrified,g14_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5420521779960109,1.4059437496579374,3.646656
+Westeros Electrified,g14_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9467280000000001,1.1044234095747913,0.9467280000000001
+Westeros Electrified,g14_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.0,0.09476539042520898,0.47336400000000006
+Westeros Electrified,g14_b2,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,18.0
+Westeros Electrified,g14_b2,Westeros,Emissions|CO2,Mt CO2/yr,391.6415860496729,408.3891686018429,0.0
+Westeros Electrified,g14_b2,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,391.6415860496729,408.3891686018429,18.0
+Westeros Electrified,g14_b2,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,85.46075676643875,85.56964367406505,18.0
+Westeros Electrified,g14_b2,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,306.1808292832342,322.8195249277779,0.0
+Westeros Electrified,g14_b2,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,151.12210893388925
+Westeros Electrified,g14_b2,Westeros,Secondary Energy|Electricity,EJ/yr,1.9603528049483188,3.074624402842517,4.467153600000001
+Westeros Electrified,g14_b2,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.06311520000000001
+Westeros Electrified,g14_b2,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3057205592146748,1.3766769513325465,0.0
+Westeros Electrified,g14_b2,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6546322457336441,1.697947451509971,4.404038400000001
+Westeros Electrified,g14_b2,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b2,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.8989787925775226,0.9001241957362252,0.18934560000000003
+Westeros Electrified,g14_b2,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.04774920742247761,0.29906460426377507,1.2307464000000001
+Westeros Electrified,g14_b4,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,36.0
+Westeros Electrified,g14_b4,Westeros,Emissions|CO2,Mt CO2/yr,397.39732714976924,422.3782624620949,0.0
+Westeros Electrified,g14_b4,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,397.39732714976924,422.3782624620949,36.0
+Westeros Electrified,g14_b4,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,86.77046777636656,90.42503224540522,36.0
+Westeros Electrified,g14_b4,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,310.6268593734027,331.9532302166897,0.0
+Westeros Electrified,g14_b4,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,151.12210893388925
+Westeros Electrified,g14_b4,Westeros,Secondary Energy|Electricity,EJ/yr,1.9511680635778972,3.040574533869423,4.3409232000000015
+Westeros Electrified,g14_b4,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.12623040000000002
+Westeros Electrified,g14_b4,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3246808347786612,1.4156280078224603,0.0
+Westeros Electrified,g14_b4,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6264872287992358,1.6249465260469627,4.214692800000001
+Westeros Electrified,g14_b4,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.946728,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b4,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9127559046331553,0.9511989991958667,0.37869120000000006
+Westeros Electrified,g14_b4,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.033972095366844875,0.24798980080413355,1.0414008000000001
+Westeros Electrified,g14_b6,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,54.0
+Westeros Electrified,g14_b6,Westeros,Emissions|CO2,Mt CO2/yr,403.15306824986556,436.36735632234684,0.0
+Westeros Electrified,g14_b6,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,403.15306824986556,436.36735632234684,54.0
+Westeros Electrified,g14_b6,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,88.08017878629437,95.28042081674536,54.0
+Westeros Electrified,g14_b6,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,315.0728894635712,341.08693550560145,0.0
+Westeros Electrified,g14_b6,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,151.12210893388925
+Westeros Electrified,g14_b6,Westeros,Secondary Energy|Electricity,EJ/yr,1.9419833222074754,3.0065246648963293,4.2146928
+Westeros Electrified,g14_b6,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.18934560000000003
+Westeros Electrified,g14_b6,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3436411103426478,1.4545790643123744,0.0
+Westeros Electrified,g14_b6,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5983422118648275,1.5519456005839545,4.025347200000001
+Westeros Electrified,g14_b6,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b6,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.926533016688788,1.002273802655508,0.5680368000000001
+Westeros Electrified,g14_b6,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.020194983311212174,0.19691499734449205,0.8520552000000001
+Westeros Electrified,g14_b8,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,72.0
+Westeros Electrified,g14_b8,Westeros,Emissions|CO2,Mt CO2/yr,408.9088093499617,450.3564501825988,0.0
+Westeros Electrified,g14_b8,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,408.9088093499617,450.3564501825988,72.0
+Westeros Electrified,g14_b8,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,89.38988979622219,100.13580938808556,72.0
+Westeros Electrified,g14_b8,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,319.5189195537395,350.22064079451326,0.0
+Westeros Electrified,g14_b8,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,151.12210893388925
+Westeros Electrified,g14_b8,Westeros,Secondary Energy|Electricity,EJ/yr,1.9327985808370531,2.9724747959232345,4.0884624
+Westeros Electrified,g14_b8,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.25246080000000004
+Westeros Electrified,g14_b8,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3626013859066342,1.4935301208022882,0.0
+Westeros Electrified,g14_b8,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5701971949304192,1.478944675120946,3.836001600000001
+Westeros Electrified,g14_b8,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g14_b8,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9403101287444207,1.0533486061151496,0.7573824000000001
+Westeros Electrified,g14_b8,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.006417871255579443,0.1458401938848505,0.6627096000000001
+Westeros Electrified,g16_b0,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,0.0
+Westeros Electrified,g16_b0,Westeros,Emissions|CO2,Mt CO2/yr,384.2945684119552,390.8018869048821,0.0
+Westeros Electrified,g16_b0,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,384.2945684119552,390.8018869048821,0.0
+Westeros Electrified,g16_b0,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,86.6202679700616,86.29765002175587,0.0
+Westeros Electrified,g16_b0,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,297.6743004418936,304.5042368831262,0.0
+Westeros Electrified,g16_b0,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,149.76365732220992
+Westeros Electrified,g16_b0,Westeros,Secondary Energy|Electricity,EJ/yr,1.9522213847795526,3.0695190399274312,4.593384
+Westeros Electrified,g16_b0,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.0
+Westeros Electrified,g16_b0,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.2694441221115003,1.298570662954452,0.0
+Westeros Electrified,g16_b0,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6827772626680524,1.7709483769729795,4.593384
+Westeros Electrified,g16_b0,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b0,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9111759228306722,0.9077822401088546,0.0
+Westeros Electrified,g16_b0,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.03555207716932806,0.2914065598911457,1.4200920000000001
+Westeros Electrified,g16_b10,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,90.0
+Westeros Electrified,g16_b10,Westeros,Emissions|CO2,Mt CO2/yr,415.1154043029102,463.24484815832335,0.0
+Westeros Electrified,g16_b10,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,415.1154043029102,463.24484815832335,90.0
+Westeros Electrified,g16_b10,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,90.0,106.69917433196828,90.0
+Westeros Electrified,g16_b10,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,325.1154043029102,356.5456738263551,0.0
+Westeros Electrified,g16_b10,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,141.45651153650255
+Westeros Electrified,g16_b10,Westeros,Secondary Energy|Electricity,EJ/yr,1.9285200000000005,2.9264472302447735,3.9622320000000006
+Westeros Electrified,g16_b10,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.3155760000000001
+Westeros Electrified,g16_b10,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3864678220039892,1.5205034805868356,0.0
+Westeros Electrified,g16_b10,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5420521779960111,1.405943749657938,3.6466560000000006
+Westeros Electrified,g16_b10,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b10,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9467280000000001,1.1223899546328409,0.9467280000000001
+Westeros Electrified,g16_b10,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.0,0.07679884536715931,0.47336400000000006
+Westeros Electrified,g16_b2,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,18.0
+Westeros Electrified,g16_b2,Westeros,Emissions|CO2,Mt CO2/yr,390.2982742057962,405.2904791555703,0.0
+Westeros Electrified,g16_b2,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,390.2982742057962,405.2904791555703,18.0
+Westeros Electrified,g16_b2,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,87.5452061793509,90.37795488379837,18.0
+Westeros Electrified,g16_b2,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,302.7530680264453,314.912524271772,0.0
+Westeros Electrified,g16_b2,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,146.43032398887658
+Westeros Electrified,g16_b2,Westeros,Secondary Energy|Electricity,EJ/yr,1.9457349781054483,3.0409046779908993,4.467153600000001
+Westeros Electrified,g16_b2,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.06311520000000001
+Westeros Electrified,g16_b2,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.2911027323718043,1.3429572264809284,0.0
+Westeros Electrified,g16_b2,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6546322457336441,1.697947451509971,4.404038400000001
+Westeros Electrified,g16_b2,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b2,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9209055328418281,0.9507037830136519,0.18934560000000003
+Westeros Electrified,g16_b2,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.02582246715817198,0.24848501698634842,1.2307464000000001
+Westeros Electrified,g16_b4,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,36.0
+Westeros Electrified,g16_b4,Westeros,Emissions|CO2,Mt CO2/yr,396.30197999963735,419.7790714062586,0.0
+Westeros Electrified,g16_b4,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,396.30197999963735,419.7790714062586,36.0
+Westeros Electrified,g16_b4,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,88.47014438864021,94.45825974584082,36.0
+Westeros Electrified,g16_b4,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,307.83183561099713,325.32081166041775,0.0
+Westeros Electrified,g16_b4,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,146.43032398887658
+Westeros Electrified,g16_b4,Westeros,Secondary Energy|Electricity,EJ/yr,1.9392485714313448,3.012290316054368,4.3409232000000015
+Westeros Electrified,g16_b4,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.12623040000000002
+Westeros Electrified,g16_b4,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3127613426321088,1.3873437900074057,0.0
+Westeros Electrified,g16_b4,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.6264872287992358,1.6249465260469629,4.214692800000001
+Westeros Electrified,g16_b4,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b4,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9306351428529842,0.993625325918449,0.37869120000000006
+Westeros Electrified,g16_b4,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.016092857147015898,0.20556347408155112,1.0414008000000001
+Westeros Electrified,g16_b6,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,54.0
+Westeros Electrified,g16_b6,Westeros,Emissions|CO2,Mt CO2/yr,402.30568579347835,434.2676636569469,0.0
+Westeros Electrified,g16_b6,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,402.30568579347835,434.2676636569469,54.0
+Westeros Electrified,g16_b6,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,89.39508259792952,98.53856460788332,54.0
+Westeros Electrified,g16_b6,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,312.91060319554884,335.7290990490636,0.0
+Westeros Electrified,g16_b6,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,146.43032398887658
+Westeros Electrified,g16_b6,Westeros,Secondary Energy|Electricity,EJ/yr,1.9327621647572402,2.983675954117837,4.2146928
+Westeros Electrified,g16_b6,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.18934560000000003
+Westeros Electrified,g16_b6,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3344199528924126,1.4317303535338823,0.0
+Westeros Electrified,g16_b6,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5983422118648275,1.5519456005839545,4.025347200000001
+Westeros Electrified,g16_b6,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b6,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9403647528641403,1.0365468688232464,0.5680368000000001
+Westeros Electrified,g16_b6,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.0063632471358598276,0.16264193117675385,0.8520552000000001
+Westeros Electrified,g16_b8,Westeros,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,0.0,0.0,72.0
+Westeros Electrified,g16_b8,Westeros,Emissions|CO2,Mt CO2/yr,408.5156272186383,448.75625590763514,0.0
+Westeros Electrified,g16_b8,Westeros,Emissions|CO2|Energy and Industrial Processes,Mt CO2/yr,408.5156272186383,448.75625590763514,72.0
+Westeros Electrified,g16_b8,Westeros,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,90.0,102.61886946992578,72.0
+Westeros Electrified,g16_b8,Westeros,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,318.5156272186383,346.1373864377094,0.0
+Westeros Electrified,g16_b8,Westeros,Price|Carbon,USD/t CO2,0.0,0.0,141.45651153650255
+Westeros Electrified,g16_b8,Westeros,Secondary Energy|Electricity,EJ/yr,1.9285200000000005,2.955061592181305,4.0884624
+Westeros Electrified,g16_b8,Westeros,Secondary Energy|Electricity|Biomass|w/ CCS,EJ/yr,0.0,0.0,0.25246080000000004
+Westeros Electrified,g16_b8,Westeros,Secondary Energy|Electricity|Coal|w/o CCS,EJ/yr,1.3583228050695813,1.476116917060359,0.0
+Westeros Electrified,g16_b8,Westeros,Secondary Energy|Electricity|Wind,EJ/yr,0.5701971949304192,1.4789446751209459,3.8360016000000003
+Westeros Electrified,g16_b8,Westeros,Useful Energy|Industry|Heat,EJ/yr,0.9467280000000001,1.1991888000000002,1.4200920000000001
+Westeros Electrified,g16_b8,Westeros,Useful Energy|Industry|Heat|Coal,EJ/yr,0.9467280000000001,1.0794684117280435,0.7573824000000001
+Westeros Electrified,g16_b8,Westeros,Useful Energy|Industry|Heat|Electricity,EJ/yr,0.0,0.11972038827195661,0.6627096000000001
