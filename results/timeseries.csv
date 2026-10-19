@@ -1,0 +1,649 @@
+scenario,variable,unit,year,value
+g06_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,45.52323853470668
+g06_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,51.162044939327814
+g06_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g06_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.176597016123246
+g06_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074586
+g06_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555556
+g06_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g06_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g06_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g06_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,27.61691334042179
+g06_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,31.096095756556174
+g06_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g06_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,2.3830866595782108
+g06_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,6.903904243443828
+g06_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g06_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,336.87196515682945
+g06_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,378.59913255102583
+g06_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g06_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,82.85074002126537
+g06_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,93.28828726966853
+g06_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g06_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g06_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g06_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g06_b10,Price|Carbon,USD/t CO2,700,0.0
+g06_b10,Price|Carbon,USD/t CO2,710,0.0
+g06_b10,Price|Carbon,USD/t CO2,720,187.2599807896337
+g08_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,44.73724090950655
+g08_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,49.83621368711478
+g08_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g08_b8,Secondary Energy|Electricity|Wind,GWa/yr,700,18.06845878426811
+g08_b8,Secondary Energy|Electricity|Wind,GWa/yr,710,46.864928737323055
+g08_b8,Secondary Energy|Electricity|Wind,GWa/yr,720,121.55555555555557
+g08_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g08_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g08_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,8.0
+g08_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,700,27.458117126004673
+g08_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,710,29.61495303000992
+g08_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,720,24.0
+g08_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,2.5418828739953288
+g08_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,8.38504696999008
+g08_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,21.0
+g08_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,331.05558273034853
+g08_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,368.7879812846494
+g08_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g08_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,82.37435137801401
+g08_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,88.84485909002976
+g08_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,72.0
+g08_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g08_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g08_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,72.0
+g08_b8,Price|Carbon,USD/t CO2,700,0.0
+g08_b8,Price|Carbon,USD/t CO2,710,0.0
+g08_b8,Price|Carbon,USD/t CO2,720,176.62873876941185
+g08_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,44.7709098480352
+g08_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,50.29669947135325
+g08_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g08_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.176597016123242
+g08_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074585
+g08_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555553
+g08_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g08_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g08_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g08_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.74540637042901
+g08_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,32.39411395851803
+g08_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g08_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.254593629570989
+g08_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,5.605886041481973
+g08_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g08_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,331.3047328754605
+g08_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,372.1955760880141
+g08_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g08_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,86.23621911128703
+g08_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,97.18234187555407
+g08_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g08_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g08_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g08_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g08_b10,Price|Carbon,USD/t CO2,700,0.0
+g08_b10,Price|Carbon,USD/t CO2,710,0.0
+g08_b10,Price|Carbon,USD/t CO2,720,172.06014673570635
+g10_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.69123403383159
+g10_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,48.053426232848494
+g10_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g10_b6,Secondary Energy|Electricity|Wind,GWa/yr,700,18.960320552412966
+g10_b6,Secondary Energy|Electricity|Wind,GWa/yr,710,49.178188473900235
+g10_b6,Secondary Energy|Electricity|Wind,GWa/yr,720,127.55555555555557
+g10_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g10_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g10_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,6.0
+g10_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,700,27.68933478729984
+g10_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,710,28.819244606543585
+g10_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,720,18.0
+g10_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,2.310665212700161
+g10_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,9.180755393456414
+g10_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,27.0
+g10_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,323.3151318503538
+g10_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,355.5953541230789
+g10_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g10_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,83.06800436189951
+g10_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,86.45773381963076
+g10_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,54.0
+g10_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g10_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g10_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,54.0
+g10_b6,Price|Carbon,USD/t CO2,700,0.0
+g10_b6,Price|Carbon,USD/t CO2,710,0.0
+g10_b6,Price|Carbon,USD/t CO2,720,165.52008489486437
+g10_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.98852128987987
+g10_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,48.82451281170755
+g10_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g10_b8,Secondary Energy|Electricity|Wind,GWa/yr,700,18.068458784268106
+g10_b8,Secondary Energy|Electricity|Wind,GWa/yr,710,46.86492873732305
+g10_b8,Secondary Energy|Electricity|Wind,GWa/yr,720,121.55555555555556
+g10_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g10_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g10_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,8.0
+g10_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.5811965554447
+g10_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,710,31.13250434312077
+g10_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,720,24.0
+g10_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.4188034445553
+g10_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,6.867495656879224
+g10_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,21.0
+g10_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,325.51505754511106
+g10_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,361.30139480663587
+g10_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g10_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,85.74358966633409
+g10_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,93.39751302936232
+g10_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,72.0
+g10_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g10_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g10_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,72.0
+g10_b8,Price|Carbon,USD/t CO2,700,0.0
+g10_b8,Price|Carbon,USD/t CO2,710,0.0
+g10_b8,Price|Carbon,USD/t CO2,720,165.52008489486437
+g10_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,44.28580854592816
+g10_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,49.59559939056662
+g10_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g10_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.176597016123246
+g10_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074586
+g10_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555556
+g10_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g10_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g10_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g10_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.473058323589562
+g10_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,33.445764079697966
+g10_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g10_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.5269416764104393
+g10_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,4.554235920302036
+g10_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g10_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,327.71498323986845
+g10_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,367.007435490193
+g10_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g10_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,88.4191749707687
+g10_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,100.3372922390939
+g10_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g10_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g10_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g10_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g10_b10,Price|Carbon,USD/t CO2,700,0.0
+g10_b10,Price|Carbon,USD/t CO2,710,0.0
+g10_b10,Price|Carbon,USD/t CO2,720,160.88007394107748
+g12_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,41.5892823901072
+g12_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,43.898977454745406
+g12_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b0,Secondary Energy|Electricity|Wind,GWa/yr,700,21.63590585684755
+g12_b0,Secondary Energy|Electricity|Wind,GWa/yr,710,56.11796768363181
+g12_b0,Secondary Energy|Electricity|Wind,GWa/yr,720,145.55555555555557
+g12_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,0.0
+g12_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,700,26.82888429623455
+g12_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,710,24.641248959100857
+g12_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,720,0.0
+g12_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,3.1711157037654534
+g12_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,13.358751040899145
+g12_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,45.0
+g12_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,307.7606896867933
+g12_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,324.852433165116
+g12_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,80.48665288870365
+g12_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,73.92374687730256
+g12_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,0.0
+g12_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,0.0
+g12_b0,Price|Carbon,USD/t CO2,700,0.0
+g12_b0,Price|Carbon,USD/t CO2,710,0.0
+g12_b0,Price|Carbon,USD/t CO2,720,160.6280309117324
+g12_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,42.06647709792931
+g12_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,44.92434424495981
+g12_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b2,Secondary Energy|Electricity|Wind,GWa/yr,700,20.74404408870269
+g12_b2,Secondary Energy|Electricity|Wind,GWa/yr,710,53.80470794705462
+g12_b2,Secondary Energy|Electricity|Wind,GWa/yr,720,139.55555555555557
+g12_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,2.0
+g12_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,700,27.450884886718676
+g12_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,710,26.57308837864503
+g12_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,720,6.0
+g12_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,2.5491151132813243
+g12_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,11.426911621354972
+g12_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,39.0
+g12_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,311.2919305246769
+g12_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,332.44014741270263
+g12_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,82.35265466015602
+g12_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,79.71926513593509
+g12_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,18.0
+g12_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,18.0
+g12_b2,Price|Carbon,USD/t CO2,700,0.0
+g12_b2,Price|Carbon,USD/t CO2,710,0.0
+g12_b2,Price|Carbon,USD/t CO2,720,157.29469757839905
+g12_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,42.543671805751416
+g12_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,45.94971103517422
+g12_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b4,Secondary Energy|Electricity|Wind,GWa/yr,700,19.852182320557827
+g12_b4,Secondary Energy|Electricity|Wind,GWa/yr,710,51.49144821047743
+g12_b4,Secondary Energy|Electricity|Wind,GWa/yr,720,133.55555555555557
+g12_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,4.0
+g12_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.072885477202806
+g12_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,710,28.504927798189208
+g12_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,720,12.0
+g12_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.9271145227971944
+g12_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,9.495072201810794
+g12_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,33.0
+g12_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,314.8231713625605
+g12_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,340.0278616602892
+g12_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,84.21865643160842
+g12_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,85.51478339456762
+g12_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,36.0
+g12_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,36.0
+g12_b4,Price|Carbon,USD/t CO2,700,0.0
+g12_b4,Price|Carbon,USD/t CO2,710,0.0
+g12_b4,Price|Carbon,USD/t CO2,720,157.29469757839905
+g12_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.02086651357352
+g12_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,46.97507782538863
+g12_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b6,Secondary Energy|Electricity|Wind,GWa/yr,700,18.960320552412966
+g12_b6,Secondary Energy|Electricity|Wind,GWa/yr,710,49.178188473900235
+g12_b6,Secondary Energy|Electricity|Wind,GWa/yr,720,127.55555555555557
+g12_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,6.0
+g12_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.694886067686937
+g12_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,710,30.436767217733383
+g12_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,720,18.0
+g12_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.3051139323130636
+g12_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,7.563232782266616
+g12_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,27.0
+g12_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,318.3544122004441
+g12_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,347.6155759078759
+g12_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,86.08465820306081
+g12_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,91.31030165320016
+g12_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,54.0
+g12_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,54.0
+g12_b6,Price|Carbon,USD/t CO2,700,0.0
+g12_b6,Price|Carbon,USD/t CO2,710,0.0
+g12_b6,Price|Carbon,USD/t CO2,720,157.29469757839905
+g12_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.49806122139563
+g12_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,48.000444615603016
+g12_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b8,Secondary Energy|Electricity|Wind,GWa/yr,700,18.06845878426811
+g12_b8,Secondary Energy|Electricity|Wind,GWa/yr,710,46.864928737323055
+g12_b8,Secondary Energy|Electricity|Wind,GWa/yr,720,121.55555555555557
+g12_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,8.0
+g12_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.316886658171065
+g12_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,710,32.36860663727756
+g12_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,720,24.0
+g12_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.6831133418289346
+g12_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,5.631393362722442
+g12_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,21.0
+g12_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,321.8856530383277
+g12_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,355.20329015546235
+g12_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,87.9506599745132
+g12_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,97.10581991183267
+g12_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,72.0
+g12_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,72.0
+g12_b8,Price|Carbon,USD/t CO2,700,0.0
+g12_b8,Price|Carbon,USD/t CO2,710,0.0
+g12_b8,Price|Carbon,USD/t CO2,720,157.29469757839905
+g12_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.97525592921774
+g12_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,49.02581140581743
+g12_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g12_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.176597016123246
+g12_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074586
+g12_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555556
+g12_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g12_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g12_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g12_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.938887248655195
+g12_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,34.30044605682173
+g12_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g12_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.06111275134480465
+g12_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,3.699553943178266
+g12_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g12_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,325.4168938762113
+g12_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,362.791004403049
+g12_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g12_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,89.81666174596559
+g12_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,102.90133817046518
+g12_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g12_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g12_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g12_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g12_b10,Price|Carbon,USD/t CO2,700,0.0
+g12_b10,Price|Carbon,USD/t CO2,710,0.0
+g12_b10,Price|Carbon,USD/t CO2,720,152.5416312367201
+g14_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,40.7749728639278
+g14_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,42.38997562687379
+g14_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b0,Secondary Energy|Electricity|Wind,GWa/yr,700,21.63590585684755
+g14_b0,Secondary Energy|Electricity|Wind,GWa/yr,710,56.117967683631804
+g14_b0,Secondary Energy|Electricity|Wind,GWa/yr,720,145.55555555555554
+g14_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,0.0
+g14_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.05034858550364
+g14_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,710,26.90475170090829
+g14_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,720,0.0
+g14_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.94965141449636
+g14_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,11.095248299091713
+g14_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,45.0
+g14_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,301.7347991930657
+g14_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,313.68581963886606
+g14_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,84.15104575651092
+g14_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,80.71425510272486
+g14_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,0.0
+g14_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,0.0
+g14_b0,Price|Carbon,USD/t CO2,700,0.0
+g14_b0,Price|Carbon,USD/t CO2,710,0.0
+g14_b0,Price|Carbon,USD/t CO2,720,154.45544226722257
+g14_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,41.37578774097759
+g14_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,43.624260125375386
+g14_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b2,Secondary Energy|Electricity|Wind,GWa/yr,700,20.74404408870269
+g14_b2,Secondary Energy|Electricity|Wind,GWa/yr,710,53.80470794705462
+g14_b2,Secondary Energy|Electricity|Wind,GWa/yr,720,139.55555555555557
+g14_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,2.0
+g14_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.48691892214625
+g14_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,710,28.52321455802168
+g14_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,720,6.0
+g14_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.5130810778537531
+g14_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,9.47678544197832
+g14_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,39.0
+g14_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,306.1808292832342
+g14_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,322.8195249277779
+g14_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,85.46075676643875
+g14_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,85.56964367406505
+g14_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,18.0
+g14_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,18.0
+g14_b2,Price|Carbon,USD/t CO2,700,0.0
+g14_b2,Price|Carbon,USD/t CO2,710,0.0
+g14_b2,Price|Carbon,USD/t CO2,720,151.12210893388925
+g14_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,41.976602618027385
+g14_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,44.85854462387698
+g14_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b4,Secondary Energy|Electricity|Wind,GWa/yr,700,19.852182320557827
+g14_b4,Secondary Energy|Electricity|Wind,GWa/yr,710,51.49144821047742
+g14_b4,Secondary Energy|Electricity|Wind,GWa/yr,720,133.55555555555557
+g14_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,4.0
+g14_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.923489258788855
+g14_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,710,30.14167741513507
+g14_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,720,12.0
+g14_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.0765107412111463
+g14_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,7.85832258486493
+g14_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,33.0
+g14_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,310.6268593734027
+g14_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,331.9532302166897
+g14_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,86.77046777636656
+g14_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,90.42503224540522
+g14_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,36.0
+g14_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,36.0
+g14_b4,Price|Carbon,USD/t CO2,700,0.0
+g14_b4,Price|Carbon,USD/t CO2,710,0.0
+g14_b4,Price|Carbon,USD/t CO2,720,151.12210893388925
+g14_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,42.57741749507718
+g14_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,46.092829122378575
+g14_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b6,Secondary Energy|Electricity|Wind,GWa/yr,700,18.960320552412966
+g14_b6,Secondary Energy|Electricity|Wind,GWa/yr,710,49.178188473900235
+g14_b6,Secondary Energy|Electricity|Wind,GWa/yr,720,127.55555555555554
+g14_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,6.0
+g14_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.36005959543146
+g14_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,710,31.760140272248456
+g14_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,720,18.0
+g14_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.6399404045685404
+g14_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,6.239859727751541
+g14_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,27.0
+g14_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,315.07288946357113
+g14_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,341.08693550560145
+g14_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,88.08017878629437
+g14_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,95.28042081674536
+g14_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,54.0
+g14_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,54.0
+g14_b6,Price|Carbon,USD/t CO2,700,0.0
+g14_b6,Price|Carbon,USD/t CO2,710,0.0
+g14_b6,Price|Carbon,USD/t CO2,720,151.12210893388925
+g14_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.17823237212696
+g14_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,47.32711362088017
+g14_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b8,Secondary Energy|Electricity|Wind,GWa/yr,700,18.068458784268106
+g14_b8,Secondary Energy|Electricity|Wind,GWa/yr,710,46.86492873732305
+g14_b8,Secondary Energy|Electricity|Wind,GWa/yr,720,121.55555555555556
+g14_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,8.0
+g14_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.796629932074065
+g14_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,710,33.37860312936185
+g14_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,720,24.0
+g14_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.2033700679259336
+g14_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,4.62139687063815
+g14_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,21.0
+g14_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,319.5189195537395
+g14_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,350.22064079451326
+g14_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,89.38988979622219
+g14_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,100.13580938808555
+g14_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,72.0
+g14_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,72.0
+g14_b8,Price|Carbon,USD/t CO2,700,0.0
+g14_b8,Price|Carbon,USD/t CO2,710,0.0
+g14_b8,Price|Carbon,USD/t CO2,720,151.12210893388925
+g14_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.934514094987875
+g14_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,48.56139811938178
+g14_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g14_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.176597016123242
+g14_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074585
+g14_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555554
+g14_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g14_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g14_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g14_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,30.0
+g14_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,34.99706598647524
+g14_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g14_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.0
+g14_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,3.0029340135247597
+g14_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g14_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,325.1154043029103
+g14_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,359.3543460834252
+g14_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g14_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,90.0
+g14_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,104.99119795942573
+g14_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g14_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g14_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g14_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g14_b10,Price|Carbon,USD/t CO2,700,0.0
+g14_b10,Price|Carbon,USD/t CO2,710,0.0
+g14_b10,Price|Carbon,USD/t CO2,720,139.6388955373496
+g16_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,40.2262568164721
+g16_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,41.14922120042246
+g16_b0,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b0,Secondary Energy|Electricity|Wind,GWa/yr,700,21.63590585684755
+g16_b0,Secondary Energy|Electricity|Wind,GWa/yr,710,56.117967683631804
+g16_b0,Secondary Energy|Electricity|Wind,GWa/yr,720,145.55555555555554
+g16_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b0,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,0.0
+g16_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,700,28.8734226566872
+g16_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,710,28.76588334058529
+g16_b0,Useful Energy|Industry|Heat|Coal,GWa/yr,720,0.0
+g16_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,1.1265773433128012
+g16_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,9.234116659414711
+g16_b0,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,45.0
+g16_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,297.6743004418936
+g16_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,304.5042368831262
+g16_b0,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,86.6202679700616
+g16_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,86.29765002175587
+g16_b0,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,0.0
+g16_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b0,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,0.0
+g16_b0,Price|Carbon,USD/t CO2,700,0.0
+g16_b0,Price|Carbon,USD/t CO2,710,0.0
+g16_b0,Price|Carbon,USD/t CO2,720,149.76365732220992
+g16_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,40.912576760330445
+g16_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,42.55574652321242
+g16_b2,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b2,Secondary Energy|Electricity|Wind,GWa/yr,700,20.74404408870269
+g16_b2,Secondary Energy|Electricity|Wind,GWa/yr,710,53.80470794705462
+g16_b2,Secondary Energy|Electricity|Wind,GWa/yr,720,139.55555555555557
+g16_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b2,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,2.0
+g16_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.181735393116966
+g16_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,710,30.125984961266116
+g16_b2,Useful Energy|Industry|Heat|Coal,GWa/yr,720,6.0
+g16_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.8182646068830322
+g16_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,7.874015038733883
+g16_b2,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,39.0
+g16_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,302.7530680264453
+g16_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,314.91252427177193
+g16_b2,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,87.5452061793509
+g16_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,90.37795488379835
+g16_b2,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,18.0
+g16_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b2,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,18.0
+g16_b2,Price|Carbon,USD/t CO2,700,0.0
+g16_b2,Price|Carbon,USD/t CO2,710,0.0
+g16_b2,Price|Carbon,USD/t CO2,720,146.43032398887658
+g16_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,41.598896704188796
+g16_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,43.962271846002395
+g16_b4,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b4,Secondary Energy|Electricity|Wind,GWa/yr,700,19.852182320557827
+g16_b4,Secondary Energy|Electricity|Wind,GWa/yr,710,51.49144821047743
+g16_b4,Secondary Energy|Electricity|Wind,GWa/yr,720,133.55555555555557
+g16_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b4,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,4.0
+g16_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.490048129546736
+g16_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,710,31.486086581946942
+g16_b4,Useful Energy|Industry|Heat|Coal,GWa/yr,720,12.0
+g16_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.5099518704532631
+g16_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,6.513913418053055
+g16_b4,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,33.0
+g16_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,307.83183561099713
+g16_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,325.32081166041775
+g16_b4,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,88.47014438864021
+g16_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,94.45825974584082
+g16_b4,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,36.0
+g16_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b4,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,36.0
+g16_b4,Price|Carbon,USD/t CO2,700,0.0
+g16_b4,Price|Carbon,USD/t CO2,710,0.0
+g16_b4,Price|Carbon,USD/t CO2,720,146.43032398887658
+g16_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,42.28521664804714
+g16_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,45.36879716879237
+g16_b6,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b6,Secondary Energy|Electricity|Wind,GWa/yr,700,18.960320552412966
+g16_b6,Secondary Energy|Electricity|Wind,GWa/yr,710,49.178188473900235
+g16_b6,Secondary Energy|Electricity|Wind,GWa/yr,720,127.55555555555557
+g16_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b6,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,6.0
+g16_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,700,29.798360865976505
+g16_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,710,32.84618820262777
+g16_b6,Useful Energy|Industry|Heat|Coal,GWa/yr,720,18.0
+g16_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.20163913402349443
+g16_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,5.153811797372228
+g16_b6,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,27.0
+g16_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,312.91060319554884
+g16_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,335.72909904906356
+g16_b6,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,89.39508259792952
+g16_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,98.53856460788332
+g16_b6,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,54.0
+g16_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b6,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,54.0
+g16_b6,Price|Carbon,USD/t CO2,700,0.0
+g16_b6,Price|Carbon,USD/t CO2,710,0.0
+g16_b6,Price|Carbon,USD/t CO2,720,146.43032398887658
+g16_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.04265232684301
+g16_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,46.775322491582344
+g16_b8,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b8,Secondary Energy|Electricity|Wind,GWa/yr,700,18.068458784268106
+g16_b8,Secondary Energy|Electricity|Wind,GWa/yr,710,46.86492873732304
+g16_b8,Secondary Energy|Electricity|Wind,GWa/yr,720,121.55555555555554
+g16_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b8,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,8.0
+g16_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,700,30.0
+g16_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,710,34.206289823308595
+g16_b8,Useful Energy|Industry|Heat|Coal,GWa/yr,720,24.0
+g16_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.0
+g16_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,3.793710176691402
+g16_b8,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,21.0
+g16_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,318.5156272186383
+g16_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,346.1373864377094
+g16_b8,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,90.0
+g16_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,102.61886946992578
+g16_b8,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,72.0
+g16_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b8,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,72.0
+g16_b8,Price|Carbon,USD/t CO2,700,0.0
+g16_b8,Price|Carbon,USD/t CO2,710,0.0
+g16_b8,Price|Carbon,USD/t CO2,720,141.45651153650255
+g16_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,700,43.93451409498786
+g16_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,710,48.181847814372304
+g16_b10,Secondary Energy|Electricity|Coal|w/o CCS,GWa/yr,720,0.0
+g16_b10,Secondary Energy|Electricity|Wind,GWa/yr,700,17.17659701612325
+g16_b10,Secondary Energy|Electricity|Wind,GWa/yr,710,44.55166900074586
+g16_b10,Secondary Energy|Electricity|Wind,GWa/yr,720,115.55555555555557
+g16_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,700,0.0
+g16_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,710,0.0
+g16_b10,Secondary Energy|Electricity|Biomass|w/ CCS,GWa/yr,720,10.0
+g16_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,700,30.0
+g16_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,710,35.566391443989424
+g16_b10,Useful Energy|Industry|Heat|Coal,GWa/yr,720,30.0
+g16_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,700,0.0
+g16_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,710,2.433608556010574
+g16_b10,Useful Energy|Industry|Heat|Electricity,GWa/yr,720,15.0
+g16_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,700,325.1154043029102
+g16_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,710,356.5456738263551
+g16_b10,Emissions|CO2|Energy|Supply|Electricity,Mt CO2/yr,720,0.0
+g16_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,700,90.0
+g16_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,710,106.69917433196827
+g16_b10,Emissions|CO2|Energy|Demand|Industry,Mt CO2/yr,720,90.0
+g16_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,700,0.0
+g16_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,710,0.0
+g16_b10,Carbon Sequestration|CCS|Biomass,Mt CO2/yr,720,90.0
+g16_b10,Price|Carbon,USD/t CO2,700,0.0
+g16_b10,Price|Carbon,USD/t CO2,710,0.0
+g16_b10,Price|Carbon,USD/t CO2,720,141.45651153650255
